@@ -42,6 +42,16 @@ notebooks/
 
 The original dataset was collected for academic research purposes and is not publicly available to protect privacy.
 
+## Results
+
+The `results/` folder contains exported statistical outputs:
+
+- `descriptive_statistics.csv` – descriptive statistics for EI dimensions and GTL
+- `correlations.csv` – Spearman correlations between EI dimensions and GTL
+- `age_group_correlations.csv` – correlations between age groups and EI/GTL variables
+- `kruskal_origin.csv` – Kruskal–Wallis tests by country of origin
+- `kruskal_business.csv` – Kruskal–Wallis tests by country of business
+
 ## Visualizations
 
 ### Relationship between EI and GTL
