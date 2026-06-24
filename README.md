@@ -49,7 +49,3 @@ The original dataset was collected for academic research purposes and is not pub
 
 ### Heatmap of correlations
 ![Heatmap](figures/correlation_heatmap.png)
-
-### Figure 5. Regression coefficients
-
-![Figure 5](figures/Figure_5_Regression_coefficients.png)
