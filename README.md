@@ -35,7 +35,6 @@ This project investigates the relationship between Emotional Intelligence (EI) a
 scripts/
 figures/
 results/
-notebooks/
 ```
 
 ## Dataset
